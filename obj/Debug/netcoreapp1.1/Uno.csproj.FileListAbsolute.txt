@@ -1,0 +1,9 @@
+C:\Users\Jeffr\Desktop\Github\C#\Fundamentals\Uno\bin\Debug\netcoreapp1.1\Uno.deps.json
+C:\Users\Jeffr\Desktop\Github\C#\Fundamentals\Uno\bin\Debug\netcoreapp1.1\Uno.runtimeconfig.json
+C:\Users\Jeffr\Desktop\Github\C#\Fundamentals\Uno\bin\Debug\netcoreapp1.1\Uno.runtimeconfig.dev.json
+C:\Users\Jeffr\Desktop\Github\C#\Fundamentals\Uno\bin\Debug\netcoreapp1.1\Uno.dll
+C:\Users\Jeffr\Desktop\Github\C#\Fundamentals\Uno\bin\Debug\netcoreapp1.1\Uno.pdb
+C:\Users\Jeffr\Desktop\Github\C#\Fundamentals\Uno\obj\Debug\netcoreapp1.1\Uno.csproj.CoreCompileInputs.cache
+C:\Users\Jeffr\Desktop\Github\C#\Fundamentals\Uno\obj\Debug\netcoreapp1.1\Uno.AssemblyInfo.cs
+C:\Users\Jeffr\Desktop\Github\C#\Fundamentals\Uno\obj\Debug\netcoreapp1.1\Uno.dll
+C:\Users\Jeffr\Desktop\Github\C#\Fundamentals\Uno\obj\Debug\netcoreapp1.1\Uno.pdb
